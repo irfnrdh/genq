@@ -1,2 +1,3 @@
 # genq
+![](Screenshot.png)
 quran
