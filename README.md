@@ -1,0 +1,2 @@
+# genq
+quran
